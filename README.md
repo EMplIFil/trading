@@ -63,7 +63,7 @@ For now, out of curiosity and ignorance I will focus on cryptocurrencies.
 Outcomes
 --------
 
-The purpose of this is for me to develop the knowledge, skills and disposition to be a full-time trader. 
+The purpose of this is for me to develop the knowledge, skills and disposition to be a trader. 
 
 Intermediate outcomes will be the stepping stones on that path. These outcomes will be demonstrated as python modules and jupyter notebooks. 
 
